@@ -1,0 +1,209 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress GPS 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-01 12:48+0100\n"
+"PO-Revision-Date: 2012-08-01 12:48+0100\n"
+"Last-Translator: Lionel Pointet <lionel.pointet@globalis-ms.com>\n"
+"Language-Team: Lionel POINTET <lionel.pointet@globalis-ms.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: Z:\\webperso\\veille\\wordpress\\wp-content\\plugins\\gb_gps\\include\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: lang.php:3
+msgid "WordPress GPS: launch a scenario"
+msgstr ""
+
+#: lang.php:4
+msgid "Select a scenario"
+msgstr ""
+
+#: lang.php:5
+msgid "Scenario to launch"
+msgstr ""
+
+#: lang.php:6
+msgid "WordPress GPS"
+msgstr ""
+
+#: lang.php:7
+msgid "GPS"
+msgstr ""
+
+#: lang.php:8
+msgid "Launch!"
+msgstr ""
+
+#: lang.php:11
+msgid "Create a new post"
+msgstr ""
+
+#: lang.php:12
+msgid "Allow to create a new post which will be visible on your website."
+msgstr ""
+
+#: lang.php:13
+#, php-format
+msgid "Go to the \"%s\" menu"
+msgstr ""
+
+#: lang.php:14
+#, php-format
+msgid "Click on \"%s\" to access the corresponding screen. You'll see the list of all %s."
+msgstr ""
+
+#: lang.php:15
+msgid "Open a new form"
+msgstr ""
+
+#: lang.php:16
+#, php-format
+msgid "Click on the \"Add new\" button to access to the %s creation form."
+msgstr ""
+
+#: lang.php:18
+msgid "Affect a category to a post"
+msgstr ""
+
+#: lang.php:19
+msgid "Allow to add a link between an existing post and a category."
+msgstr ""
+
+#: lang.php:20
+msgid "Select a post"
+msgstr ""
+
+#: lang.php:21
+msgid "Click on the post title on which you want to affect the category"
+msgstr ""
+
+#: lang.php:22
+msgid "Check the category"
+msgstr ""
+
+#: lang.php:23
+msgid "Check the category you want to affect to the post. If it doesn't exist, you can add one directly."
+msgstr ""
+
+#: lang.php:25
+msgid "Add a new user"
+msgstr ""
+
+#: lang.php:26
+msgid "Allow to add a new user allowing to access to WordPress backend."
+msgstr ""
+
+#: lang.php:27
+msgid "Fill in the \"Login\" field."
+msgstr ""
+
+#: lang.php:28
+msgid "Fill in the \"E-mail\" field."
+msgstr ""
+
+#: lang.php:29
+msgid "Fill in the \"Password\" fields."
+msgstr ""
+
+#: lang.php:30
+msgid "Select the role you want for that user."
+msgstr ""
+
+#: lang.php:32
+msgid "Add a media"
+msgstr ""
+
+#: lang.php:33
+msgid "Allow to add a new media (picture / PDF / sound...) to the website's library"
+msgstr ""
+
+#: lang.php:34
+msgid "Send the files"
+msgstr ""
+
+#: lang.php:35
+msgid "You can browse your files or drag them in the area to add new ones."
+msgstr ""
+
+#: lang.php:37
+msgid "Update menus"
+msgstr ""
+
+#: lang.php:38
+msgid "Allow to modify one or more custom menus."
+msgstr ""
+
+#: lang.php:39
+msgid "1. Choose a menu or create a new one."
+msgstr ""
+
+#: lang.php:40
+msgid "2. Add some items to your menu after having selected them."
+msgstr ""
+
+#: lang.php:41
+msgid "3. Add some items to your menu after having selected them."
+msgstr ""
+
+#: lang.php:43
+msgid "(De-)Activate plugin"
+msgstr ""
+
+#: lang.php:44
+msgid "Allow to activate or deactivate one plugin installed on your site."
+msgstr ""
+
+#: lang.php:45
+msgid "Select a plugin"
+msgstr ""
+
+#: lang.php:46
+msgid "Choose the plugin you want to activate or deactivate and click on the corresponding link."
+msgstr ""
+
+#: lang.php:47
+msgid "Click on the link"
+msgstr ""
+
+#: lang.php:48
+msgid "You may want to click on the link provided here to activate or deactivate this plugin"
+msgstr ""
+
+#: lang.php:51
+msgid "Scenario launched."
+msgstr ""
+
+#: lang.php:52
+msgid "Don't do this ever again!"
+msgstr ""
+
+#: lang.php:55
+msgid "users"
+msgstr ""
+
+#: lang.php:56
+msgid "user"
+msgstr ""
+
+#: lang.php:57
+msgid "medias"
+msgstr ""
+
+#: lang.php:58
+msgid "media"
+msgstr ""
+
+#: lang.php:59
+msgid "themes"
+msgstr ""
+
+#: lang.php:60
+msgid "plugins"
+msgstr ""
+
